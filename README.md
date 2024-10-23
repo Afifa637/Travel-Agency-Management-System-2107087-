@@ -9,7 +9,7 @@
     <h1>XYZ Travel Agency Console Application</h1>
     <p>This is a console-based travel agency system that allows users to register as customers and make various bookings such as flights, hotels, and Uber services. The system is designed to simulate the management of travel services, with features to view costs, update customer information, and generate a receipt.</p>
 
-    <h2>Features</h2>
+  <h2>Features</h2>
     <ul>
         <li><strong>Customer Registration:</strong> Users can register by entering their name, age, customer ID, and email.</li>
         <li><strong>Flight Reservation:</strong> Users can book flights based on their desired origin and destination.</li>
@@ -19,7 +19,7 @@
         <li><strong>Customer Information Update:</strong> Users can update their personal details.</li>
     </ul>
 
-    <h2>Installation</h2>
+ <h2>Installation</h2>
     <p>To run the XYZ Travel Agency Console Application, follow these steps:</p>
     <ol>
         <li>Clone this repository to your local machine:
@@ -36,7 +36,7 @@
         </li>
     </ol>
 
-    <h2>Usage</h2>
+ <h2>Usage</h2>
     <ol>
         <li>On launching the application, you will be asked to register a customer.</li>
         <li>After registration, you can proceed to:
